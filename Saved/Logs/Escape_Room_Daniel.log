@@ -1829,3 +1829,98 @@ Script Stack (0 frames):
 [2019.10.25-03.22.38:198][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
 [2019.10.25-03.22.38:230][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
 [2019.10.25-03.22.43:009][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-03.26.33:947][270]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-03.26.33:999][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.10.25-03.26.34:275][270]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/FirstPersonExampleMap_Auto6C97ED9E543EEF0D096B1999E3ADF77B9.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto6.umap'
+[2019.10.25-03.26.34:280][270]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.318
+[2019.10.25-03.26.34:280][270]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.318
+[2019.10.25-03.26.41:158][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-03.31.25:716][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-03.31.51:688][855]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrint/Box.Box
+[2019.10.25-03.32.45:243][629]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.45:243][629]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:440][746]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:441][746]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:443][746]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:447][746]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:453][747]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:455][747]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:458][747]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:464][748]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:465][748]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:468][748]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:474][749]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:478][749]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:484][750]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:487][750]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:492][751]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:494][751]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:497][751]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:502][752]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:504][752]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:506][752]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:512][753]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:513][753]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:516][753]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:521][754]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:522][754]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:526][754]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:531][755]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:533][755]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:536][755]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:542][756]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:545][756]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:549][757]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:551][757]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:554][757]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:559][758]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:560][758]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:564][758]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:569][759]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:570][759]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:574][759]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:579][760]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:580][760]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:583][760]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:588][761]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:590][761]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.32.55:593][761]LogUObjectArray: Warning: Empty slot
+[2019.10.25-03.33.27:798][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-03.33.44:700][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-03.34.37:908][ 89]BlueprintLog: New page: Compile Box
+[2019.10.25-03.34.38:126][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.10.25-03.35.02:370][823]BlueprintLog: New page: Compile NewBlueprint
+[2019.10.25-03.35.02:582][823]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2019.10.25-03.36.34:720][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.10.25-03.36.34:999][ 69]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/FirstPersonExampleMap_Auto7A3C74D8E4480BDDBC7569B8D5F9F4115.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto7.umap'
+[2019.10.25-03.36.35:001][ 69]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.324
+[2019.10.25-03.36.35:001][ 69]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.324
+[2019.10.25-03.36.35:003][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/Box] ([1] browsable assets)...
+[2019.10.25-03.36.35:016][ 69]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/Box.Box]
+[2019.10.25-03.36.35:016][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/Box]
+[2019.10.25-03.36.35:045][ 69]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/Box_Auto74735E5FE4ED188FDE21402A0435E449D.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/Autosaves/Game/BluePrint/Box_Auto7.uasset'
+[2019.10.25-03.36.35:046][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrint/NewBlueprint] ([1] browsable assets)...
+[2019.10.25-03.36.35:059][ 69]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrint/NewBlueprint.NewBlueprint]
+[2019.10.25-03.36.35:059][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrint/NewBlueprint]
+[2019.10.25-03.36.35:087][ 69]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/NewBlueprint_Auto7DA79B91B438095901F7BE798905BCF69.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/Autosaves/Game/BluePrint/NewBlueprint_Auto7.uasset'
+[2019.10.25-03.36.35:088][ 69]LogFileHelpers: Auto-saving content packages took 0.085
+[2019.10.25-03.43.27:481][601]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-03.44.54:665][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-03.44.58:714][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2019.10.25-03.44.58:720][489]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-03.44.58:760][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.10.25-03.44.59:038][489]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/FirstPersonExampleMap9838E212430F5572084786B9CF3698DB.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.25-03.44.59:054][489]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.328
+[2019.10.25-03.44.59:110][489]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/FirstPersonCharacterAD3CDCB34E248D70337372AD66F0F01C.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2019.10.25-03.44.59:116][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/Box" FILE="../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/BluePrint/Box.uasset" SILENT=true
+[2019.10.25-03.44.59:130][489]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/BoxFA26B28F494F3D839411C5952F234BD8.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/BluePrint/Box.uasset'
+[2019.10.25-03.44.59:135][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrint/NewBlueprint" FILE="../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/BluePrint/NewBlueprint.uasset" SILENT=true
+[2019.10.25-03.44.59:157][489]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/NewBlueprintDCD8043641397CB15603B1A244FDE095.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/BluePrint/NewBlueprint.uasset'
+[2019.10.25-03.44.59:166][489]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/T_Fire_Tiled_MatD85B856F485A050B3315E08E0883B279.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/StarterContent/Textures/T_Fire_Tiled_Mat.uasset'
+[2019.10.25-03.44.59:257][489]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/T_Chair_M_MatDD71B68647B6C59501E95DA54FDCCEE3.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/StarterContent/Textures/T_Chair_M_Mat.uasset'
+[2019.10.25-03.44.59:265][489]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/T_Shelf_M_Mat04F66D224CAE9CD807A0B0AC05BF4A41.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/StarterContent/Textures/T_Shelf_M_Mat.uasset'
+[2019.10.25-03.44.59:273][489]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/T_Perlin_Noise_M_Mat87895EFE4D785D999145EDB5F22E6F9E.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/StarterContent/Textures/T_Perlin_Noise_M_Mat.uasset'
+[2019.10.25-03.44.59:282][489]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/T_MacroVariation_MatCA4C662E4A417B76A4BF1EB676DF3DB5.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/StarterContent/Textures/T_MacroVariation_Mat.uasset'
+[2019.10.25-03.44.59:294][489]LogSavePackage: Moving '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Saved/playerwinACB50AD24CE9ADE742EE378B5918AB8B.tmp' to '../../../../../../Users/dnixon/Documents/Unreal Projects/Escape_Room_Daniel/Content/FirstPersonBP/Widgits/playerwin.uasset'
+[2019.10.25-03.45.37:067][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-03.46.16:835][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
